@@ -1,0 +1,9 @@
+{
+    "cb_emotion": true,
+    "cb_up_rate": true,
+    "cb_down_rate": false,
+    "cb_zt_count": false,
+    "cb_dt_count": false,
+    "cb_volume_change": false,
+    "cb_hot_concept": false
+}

@@ -1,0 +1,19 @@
+
+{
+  "设置一": "一键下单程序需要的通达信的TdxW.exe的详细地址",
+  "TDX_EXE_PATH": "D:/tdx64/TdxW.exe",
+  "设置二": "通达信程序的目录",
+  "TDX_PATH": "D:/tdx64",
+  "设置三": "块热度分析-套利工具，要用到的，yesword是强调板块，多个板块用空格分开",
+  "yesword": "华为鸿蒙",
+  "blkfile": "D:/tdx64/T0002/blocknew/444ZTB.blk",
+  "设置四": "调用大模型时需要的参数：千问大模型的API-Key及模型名",
+  "OPENAI_API_KEY": "sk-xxxx",
+  "OPENAI_MODEL": "gpt-5",
+  "OPENAI_BASE_URL": "https://api.openai.com/v1",
+  
+  
+
+  "设置5": "设置桌面路径",
+  "desktop": "C:/Users/xxxx/Desktop"
+}

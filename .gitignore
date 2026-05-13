@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Build outputs
+*.exe
+
+# Local configuration with sensitive/paths data
+setup.json
+setup.txt
+
+# Runtime data files
+data/
+*.csv
+*.xlsx
+
+# Logs
+operation_log.csv
+strategy_total_log.csv
+
+# Lock file (optional; keep if you want reproducible installs)
+# uv.lock

@@ -1,0 +1,10 @@
+orientation=row
+buttons=监,撤,买1,买2,买3,买设,卖1,卖2,卖3,卖设
+color_买1=#ff0000
+color_买2=#eb0214
+color_买3=#ff80ff
+color_买设=#a5095a
+color_卖1=#008000
+color_卖2=#00ff00
+color_卖3=#ff80ff
+color_卖设=#00ff80

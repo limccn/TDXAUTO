@@ -1,0 +1,136 @@
+{
+    "programs": [
+        {
+            "name": "etf_jz.py",
+            "time": "",
+            "desc": "ETF净值+成份股"
+        },
+        {
+            "name": "hot_lbtt.py",
+            "time": "",
+            "desc": "连板天梯、梯队高度"
+        },
+        {
+            "name": "hot_rate.py",
+            "time": "",
+            "desc": "从概念涨幅发现大趋势"
+        },
+        {
+            "name": "hot_zt.py",
+            "time": "",
+            "desc": "涨停板中反推板块趋势"
+        },
+        {
+            "name": "hot_ztjx.py",
+            "time": "",
+            "desc": "涨停原因解析-韭研公社"
+        },
+        {
+            "name": "tdx_emo.py",
+            "time": "",
+            "desc": "盘中实时情绪分析"
+        },
+        {
+            "name": "tdx_lhb.py",
+            "time": "",
+            "desc": "龙虎榜分析"
+        },
+        {
+            "name": "data_update.py",
+            "time": "18:40",
+            "desc": "数据更新下载"
+        },
+        {
+            "name": "tdx34导出数据.py",
+            "time": "",
+            "desc": "9:25通达信导出615数据"
+        },
+        {
+            "name": "news.py",
+            "time": "08:55",
+            "desc": "9:00新闻收集"
+        },
+        {
+            "name": "hot_rank.py",
+            "time": "",
+            "desc": "四大热榜排行"
+        },
+        {
+            "name": "del34.py",
+            "time": "19:00",
+            "desc": "删除桌面导出的文件"
+        },
+        {
+            "name": "hot_blk.py",
+            "time": "",
+            "desc": "09:25板块竞价热度"
+        },
+        {
+            "name": "hot_cxg.py",
+            "time": "",
+            "desc": "创120日新高"
+        },
+        {
+            "name": "ai_choose.py",
+            "time": "",
+            "desc": "大模型选股"
+        },
+        {
+            "name": "ai_qw35.py",
+            "time": "",
+            "desc": "千问3.5"
+        },
+        {
+            "name": "ai_ds.py",
+            "time": "",
+            "desc": "DS V3.2"
+        },
+        {
+            "name": "tdx_data_download.py",
+            "time": "18:50",
+            "desc": "通达信盘后数据下载"
+        }
+    ],
+    "cell_colors": {
+        "(0, 2)": [
+            255,
+            255,
+            0
+        ],
+        "(8, 2)": [
+            255,
+            0,
+            0
+        ],
+        "(12, 2)": [
+            85,
+            255,
+            0
+        ],
+        "(5, 3)": [
+            255,
+            255,
+            0
+        ],
+        "(11, 3)": [
+            85,
+            255,
+            0
+        ],
+        "(12, 3)": [
+            255,
+            0,
+            0
+        ],
+        "(8, 3)": [
+            170,
+            255,
+            0
+        ],
+        "(14, 3)": [
+            170,
+            0,
+            255
+        ]
+    }
+}

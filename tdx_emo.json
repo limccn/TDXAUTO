@@ -1,0 +1,19 @@
+{
+    "今天涨停表现组": {
+        "连板数": false,
+        "涨停数量": false,
+        "跌停数量": false,
+        "炸板数量": false,
+        "炸板率": false
+    },
+    "赚钱效应表现组": {
+        "M上涨率": true,
+        "M下跌率": true,
+        "M平盘率": false,
+        "非一字涨停": false,
+        "非一字跌停": false,
+        "ST涨停": false,
+        "ST跌停": false,
+        "活跃度": false
+    }
+}

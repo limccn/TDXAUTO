@@ -1,0 +1,13 @@
+pyqt5>=5.15.11
+openpyxl>=3.1.5
+akshare>=1.18.60
+beautifulsoup4>=4.14.3
+httpx>=0.28.1
+matplotlib>=3.10.9
+mootdx>=0.9.11
+openai>=2.36.0
+pandas>=3.0.2
+pyautogui>=0.9.54
+pywin32>=311
+pywinauto>=0.6.9
+requests>=2.33.1

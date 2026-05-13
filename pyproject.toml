@@ -1,0 +1,19 @@
+[project]
+name = "tdxauto"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "akshare>=1.18.60",
+    "beautifulsoup4>=4.14.3",
+    "httpx>=0.28.1",
+    "matplotlib>=3.10.9",
+    "mootdx>=0.9.11",
+    "openai>=2.36.0",
+    "pandas>=3.0.2",
+    "pyautogui>=0.9.54",
+    "pywin32>=311",
+    "pywinauto>=0.6.9",
+    "requests>=2.33.1",
+]
